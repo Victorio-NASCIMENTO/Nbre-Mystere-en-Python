@@ -6,7 +6,7 @@ niveaux = ["Nombre entre 0 et 10.",
            "Nombre en 0 et 100.",
            "Nombre entre 0 et 1000.",
            "Nombre entre 0 et 10_000.",
-           "Nombre entre 0 et 100_000."
+           "Nombre entre 0 et 100_000.",
 ]
 
 for i in range(len(niveaux)) : print(f"\033[32m{i + 1}-\033[0m {niveaux[i]}\n")
