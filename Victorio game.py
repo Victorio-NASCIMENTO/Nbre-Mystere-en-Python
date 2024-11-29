@@ -3,7 +3,7 @@ from random import randint
 
 print("\nBienvenue dans le jeu \033[93mNombre Mystère\033[0m de Victorio.\nChoisissez le niveau de difficulté.\n")
 niveaux = ["Nombre entre 0 et 10.",
-           "Nombre en 0 et 100.",
+           "Nombre entre 0 et 100.",
            "Nombre entre 0 et 1000.",
            "Nombre entre 0 et 10_000.",
            "Nombre entre 0 et 100_000.",
